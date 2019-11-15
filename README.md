@@ -2,5 +2,5 @@
 
 Documents
 * papers
-* .ppt files
+* slides
 * etc.
