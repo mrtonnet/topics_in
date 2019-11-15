@@ -1,0 +1,38 @@
+﻿SMALL-FOOTPRINT KEYWORD SPOTTING USING DEEP NEURAL NETWORKS
+Guoguo Chen∗1 Carolina Parada2 Georg Heigold2
+1 Center for Language and Speech Processing, Johns Hopkins University, Baltimore, MD
+2 Google Inc., Mountain View, CA
+guoguo@jhu.edu carolinap@google.com heigold@google.com
+
+Summary
+Chen et.al. propose a deep neural network-based keyword spotting (KWS) approach called Deep KWS which outperforms the baseline HMM-based KWS system. The system requirements include a small memory footprint, low computational cost, and high precision. The proposed 
+
+Excerpts
+Keyword recognition results achieve 45% relative improvement with respect to a competitive Hidden Markov Model-based system, while performance in the presence of babble noise shows 39% relative improvement.
+
+History
+2019-10-31 (Thu)
+I found this paper in the process of:
+Google search: tensorflow keyword spotting
+This paper is mentioned in Does TensorFlow Audio/Speech Recognition work with multi-word trigger keywords? (Stackoverflow).
+
+For example, Google separately detects "ok" and "google" in their "ok google" as described in SMALL-FOOTPRINT KEYWORD SPOTTING USING DEEP NEURAL NETWORKS .
+The whole Q&A is worth reading. So it’s copied below.
+
+Asked 9 months ago Active 9 months ago Viewed 87 times
+Related link: https://www.tensorflow.org/tutorials/sequences/audio_recognition
+How should I modify my TensorFlow "Simple Audio Recognition" training environment (number of input samples, choice of trigger keywords, training parameters, etc.) to get a robust recognition of a unique trigger keyword (multi-words or single-word) in a normal conversation?
+The original TensorFlow "Simple Audio Recognition" comes with 10 single trigger keywords, each 1 second in duration. To avoid single trigger keywords to get detected in a normal conversation and cause false positives, I have recorded 400 times (100 times 4 different people) the following two multi-worded trigger keywords, each 1.5 seconds in duration: PLAY MUSIC, STOP MUSIC. After following the exact same training steps and compensating for the new 1.5 seconds duration in the code, I am getting 100 % recognition of these two multi-worded trigger keywords when pronounced correctly; however, further testing also shows that I am getting false positives during normal speech when any work of these trigger keywords is pronounced, e.g. STOP BLA BLA BLA, STOP VIDEO, PLAY BLA BLA BLA, PLAY VIDEO, etc. Thank you for your kind response, PM
+tensorflow triggers speech-recognition
+asked Jan 14 at 0:05
+P. Montazemi
+
+1 Answer
+You should have added garbage speech into training dataset, not sure if you did that.
+For very long phrases, it is more reliable to detect smaller chunks and ensure they all are present - i.e. to have a separate detector for "play" and for "music".
+For example, Google separately detects "ok" and "google" in their "ok google" as described in SMALL-FOOTPRINT KEYWORD SPOTTING USING DEEP NEURAL NETWORKS .
+shareimprove this answer
+answered Jan 15 at 21:51
+Nikolay Shmyrev
+
+
