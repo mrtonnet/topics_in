@@ -3,4 +3,4 @@
 Documents
 * papers
 * slides
-* etc.
+* web_articles
