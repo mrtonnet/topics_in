@@ -1,0 +1,43 @@
+#!/bin/bash
+# change_file_names
+#   replaces a pattern in the file name to a new pattern.
+# For example, '500_60-IMG' to 'IMG' and then '.PNG' to '-500_60.PNG'.
+#
+# Uncomment the following line to run/evaluate the command.
+#   #eval $CMD
+# Caution: First, ensure the command is correct and then run the command.
+#          Do not run the commands at the beginning. Doing so may be dangerous!
+
+for old_file_name in `ls`;do
+  #new_file_name=`echo $old_file_name | sed 's/\.pcm-/-/g'`
+  #new_file_name=`echo $old_file_name | sed 's/\.wav-/-/g'`
+  # 500_60-IMG_8927.PNG -> IMG_8927-500_60.PNG
+  new_file_name=`echo $old_file_name | sed 's/500_60-IMG/IMG/g' | sed 's/\.PNG/-500_60.PNG/g'`
+  CMD="mv $old_file_name $new_file_name"
+  echo $CMD
+  #eval $CMD
+done
+
+# Example to replace .pcm- to -,
+#   new_file_name=`echo $old_file_name | sed 's/\.pcm-/-/g'`
+
+# To replace .wav- to -,
+#   new_file_name=`echo $old_file_name | sed 's/\.wav-/-/g'`
+
+# 500_60-IMG_8927.PNG -> IMG_8927-500_60.PNG
+# Example to replace '500_60-IMG' to 'IMG' and then '.PNG' to '-500_60.PNG'.
+#   new_file_name=`echo $old_file_name | sed 's/500_60-IMG/IMG/g' | sed 's/\.PNG/-500_60.PNG/g'`
+# Note \. to indicate . in the file name.
+#
+# The commands in action:
+#
+# $ ./change_file_names
+# mv 500_60-IMG_8927.PNG IMG_8927-500_60.PNG
+# mv 500_60-IMG_8928.PNG IMG_8928-500_60.PNG
+#   ...
+# mv 500_60-IMG_8951.PNG IMG_8951-500_60.PNG
+# mv change_file_names change_file_names
+# mv: 'change_file_names' and 'change_file_names' are the same file
+# $
+
+# EOF

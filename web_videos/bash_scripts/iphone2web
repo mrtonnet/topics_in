@@ -1,0 +1,34 @@
+#!/bin/bash
+# iphone2web
+#   converts all images in the same directory.
+#   The images are screencaptured on an iPhone.
+#   The purpose is to lower the resolution for a web sharing.
+#
+# * Draft: 2019-12-12 (Thu)
+
+RESIZE=500
+QUALITY=60
+
+# Make the output directory if it doesn't exist.
+# src: https://stackoverflow.com/questions/793858/how-to-mkdir-only-if-a-dir-does-not-already-exist
+OUTPUT_DIR="output"
+if [[ ! -e $OUTPUT_DIR ]]; then
+  CMD="mkdir $OUTPUT_DIR"
+  echo $CMD
+  eval $CMD
+elif [[ ! -d $OUTPUT_DIR ]]; then
+  echo "$OUTPUT_DIR already exists, but is not a directory." 1>&2
+fi
+
+# Batch-convert all screencapture files.
+# The file name is IMG_*.PNG, e.g. IMG_8927.PNG.
+for FILE in IMG_*.PNG; do
+  NEW_FILE=${OUTPUT_DIR}/${RESIZE}_${QUALITY}-${FILE}
+  # TODO: separate the basename and add resize_quality between the basename and extension.
+  CMD="convert ${FILE} -resize ${RESIZE} -quality ${QUALITY} ${NEW_FILE}"
+  echo $CMD
+  # Uncomment the following line to run/evaluate the command.
+  eval $CMD
+done
+
+# EOF
