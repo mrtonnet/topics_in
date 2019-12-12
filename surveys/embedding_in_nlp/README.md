@@ -16,3 +16,4 @@ Google search: japanese embedding
     * For languages using the Latin, Cyrillic, Hebrew or Greek scripts -> the tokenizer from the Europarl preprocessing tools
     * For the remaining languages -> ICU tokenizer.
 * [IDEA] Embedding with Aozora Bunko wasn't found from my short search result.
+  * Google search: japanese embedding aozora
