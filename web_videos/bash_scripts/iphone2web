@@ -4,10 +4,21 @@
 #   The images are screencaptured on an iPhone.
 #   The purpose is to lower the resolution for a web sharing.
 #
+# * Rev.1: 2019-12-16 (Mon)
 # * Draft: 2019-12-12 (Thu)
+
+# TODO: Take in an argument Run or test
+RUN={$1:-0}
 
 RESIZE=500
 QUALITY=60
+
+INPUT_DIR="input"
+if [[ ! -e ${INPUT_DIR} ]]; then
+  echo "Warning: Directory ${INPUT_DIR} doesn't exist."
+  echo "         Create it and move all input image files to it."
+  exit 1
+fi
 
 # Make the output directory if it doesn't exist.
 # src: https://stackoverflow.com/questions/793858/how-to-mkdir-only-if-a-dir-does-not-already-exist
@@ -22,13 +33,24 @@ fi
 
 # Batch-convert all screencapture files.
 # The file name is IMG_*.PNG, e.g. IMG_8927.PNG.
-for FILE in IMG_*.PNG; do
-  NEW_FILE=${OUTPUT_DIR}/${RESIZE}_${QUALITY}-${FILE}
-  # TODO: separate the basename and add resize_quality between the basename and extension.
+for FILE in $INPUT_DIR/IMG_*.PNG; do  # FILE=input/IMG_*.PNG
+  FILE_NAME=$(basename ${FILE})       # FILE_NAME=IMG_*.PNG
+  #BASE_NAME="${FILE_NAME%.*}"         # BASE_NAME=IMG_*
+  #EXTENSION="${FILE_NAME##*.}"        # EXTENSION=PNG
+  #echo ${FILE_NAME} '->' ${BASE_NAME} '&' ${EXTENSION}
+
+  #NEW_FILE=${OUTPUT_DIR}/${BASE_NAME}-${RESIZE}_${QUALITY}.${EXTENSION}
+  NEW_FILE=${OUTPUT_DIR}/${FILE_NAME}
   CMD="convert ${FILE} -resize ${RESIZE} -quality ${QUALITY} ${NEW_FILE}"
   echo $CMD
   # Uncomment the following line to run/evaluate the command.
   eval $CMD
 done
 
+# Output .md lines
+for FILE in $INPUT_DIR/IMG_*.PNG; do  # FILE=input/IMG_*.PNG
+  FILE_NAME=$(basename ${FILE})       # FILE_NAME=IMG_*.PNG
+  LINE="<img src='images/"${FILE_NAME}"'>"
+  echo ${LINE}
+done
 # EOF
