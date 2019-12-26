@@ -1,3 +1,4 @@
 
-Terminology,My Expression,Definition,Source
-epoch,iterations of the dataset,None,Getting started with TensorFlow 2.0 (Himanshu Rawlani)
+Terminology,My Expression,Definition,Source,Link
+epoch,iterations of the dataset,None,Getting started with TensorFlow 2.0 (Himanshu Rawlani),
+downstream task,a specific task at the end of the work flow,supervised-learning tasks that utilize a pre-trained model or component,Definition of downstream tasks in NLP,https://stackoverflow.com/questions/53248838/definition-of-downstream-tasks-in-nlp
