@@ -6,5 +6,8 @@ favorite_j-pop.md
 
 * [King Gnu](きんぐぬー)
   * 作品 > アルバム > [CEREMONY](https://www.oricon.co.jp/prof/656672/products/1343367/1/)
-  * [「白日」](https://www.youtube.com/watch?v=ony539T074w), Wow! 
-  * [「傘」](https://www.youtube.com/watch?v=g4_nRpHotMo)
+    * [「白日」](https://www.youtube.com/watch?v=ony539T074w), Wow! 
+    * [「傘」](https://www.youtube.com/watch?v=g4_nRpHotMo)
+  * Sympa
+    * [「Sorrows」](https://www.youtube.com/watch?v=tZ8DP7GZYiA&list=OLAK5uy_kEUNyM7elzWB4r4VzxISHQAT1P-YDqeC8&index=4)
+    
