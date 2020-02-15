@@ -23,6 +23,7 @@ I found King Gnu on 2020-02-14 (Fri) when I checked the Oricon chart. Once I hea
   * [Prayer X](https://www.youtube.com/watch?v=L-Bzhpm8h0o)
 * [Tokyo Rendez-Vous](https://www.oricon.co.jp/prof/656672/products/1248085/1/), 2017-10-25, 2019-01-16
   * [Tokyo Rendez-Vous](https://www.youtube.com/watch?v=XDiuwqJg8pU), I like the digital(?) sound, the vocal with megaphone, and the groove.
+  * McDonald Romance, [Band version](https://www.youtube.com/watch?v=YeBt1NhOJtA), [Acoustic version](https://www.youtube.com/watch?v=z7bqt11f8Ng), I love the guitar play! It's so creative!
   * [あなたは蜃気楼](https://www.youtube.com/watch?v=g3VNX7518UU)
 #### 作品 > シングル
 * [Prayer X](https://www.oricon.co.jp/prof/656672/products/1293181/1/), 2018-09-19
