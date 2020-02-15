@@ -12,11 +12,11 @@ I found King Gnu on 2020-02-14 (Fri) when I checked the Oricon chart. Once I hea
 [Oricon](https://www.oricon.co.jp/) > [King Gnu](https://www.oricon.co.jp/prof/656672/)
 #### 作品 > アルバム
 * [CEREMONY](https://www.oricon.co.jp/prof/656672/products/1343367/1/), 2020-01-25
-  * 初回生産限定盤
+  * 初回生産限定盤, [Teaser Movie](https://www.youtube.com/watch?v=JNggadXtKFI)
     * [「白日」](https://www.youtube.com/watch?v=ony539T074w), Wow! 
     * [「傘」](https://www.youtube.com/watch?v=g4_nRpHotMo)
 * [Sympa](https://www.oricon.co.jp/prof/656672/products/1300491/1/), 2019-01-16
-  * 初回生産限定盤
+  * 初回生産限定盤, [Teaser Movie](https://www.youtube.com/watch?time_continue=144&v=I2QiyD5WvaQ&feature=emb_logo)
   * [Slumberland](https://www.youtube.com/watch?v=C66yySFa48A), Nice groove!
   * [Flash!!!](https://www.youtube.com/watch?v=j_NHrPC3ij8), 
   * [「Sorrows」](https://www.youtube.com/watch?v=tZ8DP7GZYiA&list=OLAK5uy_kEUNyM7elzWB4r4VzxISHQAT1P-YDqeC8&index=4)
