@@ -73,3 +73,4 @@ Navigating from one screen to the next is essential to almost every mobile appli
 
 ##### 8 of 11. [Single Page UI in C#](https://youtu.be/bQES3lP2Nr0)
 
+{I've always wanted to develop an app, but never spend enough time for it. I may learn to do it now... because it's fun! 2020-02-26 (Wed)}
