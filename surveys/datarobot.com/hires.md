@@ -24,7 +24,7 @@ Customer Facing Data Scientist - Tokyo
 
 https://www.datarobot.com/careers/job/493239/
 
-Customer Facing Data Scientist - Telecom
+Customer Facing Data Scientist - Telecom *
 
 https://www.datarobot.com/careers/job/1538746/
 
