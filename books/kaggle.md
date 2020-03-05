@@ -1,9 +1,35 @@
 ##### aimldl > documents > surveys > kaggle.md
+* Rev.1: 2020-03-05 (Thu)
+* Draft: 2019-11-22 (Fri)
 
 # Books on Kaggle
 I found these books accidentally on Amazon.co.jp when I was looking for some NLP books in Japanese. "Kaggleで勝つデータ分析の技術" was recommended by the Amazon Recommendation system. I liked this book and ended up selecting two more books. (There was a promotion for free shipping. 5 books=free shipping to Korea, Taiwan, & Hong Kong.)
 
+坂本 俊之, 
+1. [データサイエンスの森　Kaggleの歩き]
+
+石原 祥太郎 (著), 村田 秀樹
+
+門脇 大輔  (著), 阪田 隆司  (著), 保坂 桂佑 (著), 平松 雄司  (著)
+
+#### 著者について
+石原 祥太郎(u++), Kaggle Master(https://kaggle.com/sishihara)
+・2019年4月に「PetFinder.my Adoption Prediction」コンペで優勝
+・2019年12月には「Kaggle Days Tokyo」でのコンペ開催にも携わる
+・2019年3月に公開したQiitaのKaggle入門記事は1600いいねを達成
+・日本経済新聞社でデータ分析に従事
+
+村田 秀樹(カレー)
+・Kaggle Master(https://kaggle.com/currypurin)
+・2018年8月に「Santander Value Prediction Challenge」コンペでソロゴールドメダル獲得(8位)
+・2019年6月に「LANL Earthquake Prediction」コンペで3位入賞
+・Kaggle入門者のために書いた同人誌の『Kaggleのチュートリアル』は累計2500部を突破
+・専業Kagglerとして,2018年7月より活動している
+
+
 ### 1. [データサイエンスの森　Kaggleの歩き](https://www.amazon.co.jp/データサイエンスの森-Kaggleの歩き方-坂本-俊之/dp/4863542933/ref=pd_bxgy_14_img_3/355-0469201-0950500?_encoding=UTF8&pd_rd_i=4863542933&pd_rd_r=9073b9d2-958c-4a96-be01-0759e40a9fbf&pd_rd_w=d1fPJ&pd_rd_wg=k3uPd&pf_rd_p=b25bd748-082b-4f2a-b724-125316a35a9c&pf_rd_r=77FSZ8RJ5SB04DQT2GDE&psc=1&refRID=77FSZ8RJ5SB04DQT2GDE)
+* 2019/10/22, 坂本 俊之 (著), 単行本 ￥2,904
+* I ordered it on 2020-03-04.
 
 #### [目次]
 ```
@@ -20,7 +46,61 @@ Kaggleをこれから始めようと思う人は、こんなダラダラ書い�
 * 帯に書いてある事が全てです。
 kaggleにたどり着いたものの、英語が超苦手で使い方に悩んでいる人のための解説本。一通り英語ができる人でも、流し読みしておけば若干作業効率が上がるかも知れません。
 
-### 2. [Kaggleで勝つデータ分析の技術](https://www.amazon.co.jp/Kaggleで勝つデータ分析の技術-門脇-大輔/dp/4297108437/ref=sr_1_1?qid=1574393596&s=books&sr=1-1&text=保坂+桂佑)
+### 2. [実践Data Scienceシリーズ PythonではじめるKaggleスタートブック](https://www.amazon.co.jp/%E5%AE%9F%E8%B7%B5Data-Science%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-Python%E3%81%A7%E3%81%AF%E3%81%98%E3%82%81%E3%82%8BKaggle%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%83%96%E3%83%83%E3%82%AF-KS%E6%83%85%E5%A0%B1%E7%A7%91%E5%AD%A6%E5%B0%82%E9%96%80%E6%9B%B8-%E7%A5%A5%E5%A4%AA%E9%83%8E/dp/4065190061/ref=pd_lutyp_crty_cxhsh_1_2/358-9494963-0927933?_encoding=UTF8&pd_rd_i=4065190061&pd_rd_r=f02fabaf-16c4-468a-bfcb-2aa137af305b&pd_rd_w=zZ1GE&pd_rd_wg=ysCCo&pf_rd_p=3a8b6213-8c75-462f-a876-fcae4b498ee8&pf_rd_r=0XY7F45JHDSKJR3MDQ20&psc=1&refRID=0XY7F45JHDSKJR3MDQ20)
+* 講談社, 2020/3/19, 石原 祥太郎 (著), 村田 秀樹 (著), 単行本（ソフトカバー）￥2,200, 192ページ
+* I ordered it on 2020-03-04 (Reservation)
+
+#### [目次]
+```
+第1章 Kaggleを知る
+1.1 Kaggleとは
+1.2 Kaggleで用いる機械学習
+1.3 Kaggleのアカウントの作成
+1.4 Competitionsページの概要
+1.5 環境構築不要な「Notebooks」の使い方
+
+第2章 Titanicに取り組む
+2.1 まずはsubmit! 順位表に載ってみよう
+2.2 全体像を把握! submitまでの処理の流れを見てみよう
+2.3 次の一手を見い出す! 探索的データ分析をしてみよう
+2.4 ここで差がつく! 仮説に基づいて新しい特徴量を作ってみよう
+2.5 勾配ブースティングが最強?! いろいろな機械学習アルゴリズムを使ってみよう
+2.6 機械学習アルゴリズムのお気持ち?! ハイパーパラメータを調整してみよう
+2.7 submitのその前に! 「Cross Validation」の大切さを知ろう
+2.8 三人寄れば文殊の知恵! アンサンブルを体験しよう.
+
+第3章 Titanicの先に行く
+3.1 複数テーブルを扱う
+3.2 画像データを扱う
+3.3 テキストデータを扱う
+
+第4章 さらなる学びのために
+4.1 参加するコンペの選び方
+4.2 初学者にお勧めの戦い方
+4.3 分析環境の選択肢
+4.4 お勧めの資料・文献・リンク
+
+付録A サンプルコード詳細解説
+A.1 第2章 Titanicに取り組む
+A.2 第3章 Titanicの先に行く
+```
+
+#### 内容紹介
+シリーズの第2弾は、初学者向けのKaggle入門書の決定版!
+
+★「Kaggleで勝つ」準備をしよう!★
+初学者が「Kaggleに何となく興味ある」状態から「実際のコンペに参加できる」状態になれるような内容を目指しました。
+
+・サンプルコードの詳細な解説があるから、しっかり身につく!
+・優勝チームと専業Kagglerのコンビによる、安定のわかりやすさ!
+・充実の本音対談で、やさしくサポート!
+・初学者や手探りでやっているが体系的な知識を得たい人に最適。
+★本書のサポートページ https://github.com/upura/python-kaggle-start-book
+★実践Data Scienceシリーズ: https://www.kspub.co.jp/book/series/S069.html
+
+### 3. [Kaggleで勝つデータ分析の技術](https://www.amazon.co.jp/Kaggleで勝つデータ分析の技術-門脇-大輔/dp/4297108437/ref=sr_1_1?qid=1574393596&s=books&sr=1-1&text=保坂+桂佑)
+* 技術評論社 (2019/10/9), 門脇 大輔 (著), 阪田 隆司 (著), 保坂 桂佑 (著), 平松 雄司 (著), 単行本（ソフトカバー）￥3,608
+* I ordered it on 2020-03-04.
 
 #### [目次](https://www.amazon.co.jp/dp/toc/4297108437/ref=dp_toc?_encoding=UTF8&n=465392)
 ```
@@ -557,3 +637,4 @@ A.3 本書で参照した分析コンペ
 索引
 著者プロフィール
 ```
+(EOF)
