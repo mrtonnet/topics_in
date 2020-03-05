@@ -6,28 +6,48 @@
 I found these books accidentally on Amazon.co.jp when I was looking for some NLP books in Japanese. "Kaggleで勝つデータ分析の技術" was recommended by the Amazon Recommendation system. I liked this book and ended up selecting two more books. (There was a promotion for free shipping. 5 books=free shipping to Korea, Taiwan, & Hong Kong.)
 
 ## Book Authors
+* Zeeshan-ul-hassan Usmani, [Kaggle for Beginners: with Kernel Code]
 * 坂本 俊之, [データサイエンスの森　Kaggleの歩き]
-* 石原 祥太郎, 村田 秀樹, 実践Data Scienceシリーズ PythonではじめるKaggleスタートブック
-* 門脇 大輔, 阪田 隆司, 保坂 桂佑, 平松 雄司, Kaggleで勝つデータ分析の技術
+* 권철민, [파이썬 머신러닝 완벽 가이드 다양한 캐글 예제와 함께 기초 알고리즘부터 최신 기법까지 배우는]
+* 石原 祥太郎, 村田 秀樹, [実践Data Scienceシリーズ PythonではじめるKaggleスタートブック]
+* 門脇 大輔, 阪田 隆司, 保坂 桂佑, 平松 雄司, [Kaggleで勝つデータ分析の技術]
+* 정권우, [Kaggle 우승작으로 배우는 머신러닝 탐구생활 파이썬을 활용한 머신러닝 실전 예제 분석]
 
-#### 著者について
-石原 祥太郎(u++), Kaggle Master(https://kaggle.com/sishihara)
+#### More about the author / 저자소개 / 著者について
+##### Zeeshan-ul-hassan Usmani
+Dr. Usmani is a Fulbright Scholar and Eisenhower Fellow. He holds a PhD and MS in Computer Science from the Florida Institute of Technology. His PhD work focuses on big data for counter-terrorism. His work has been featured in the Wall Street Journal, CNN, AOL News, Wired Magazine, NPR, MIT’s Technology Review, Florida Today, and The Economist. He has authored dozens of research papers, articles, and several books. His research strengths include data sciences, blockchain, predictive analytics, and modeling human emergent behaviors. He loves to talk about KungFu panda, census, trees, sponge bob, disadvantages of learning and appreciation, swarm and avian intelligence. He has worked in the USA, Pakistan, Lithuania. Sri Lanka, United Kingdom, Denmark and the Middle East. Currently, he is focusing on blockchain applications, self-aware smart contracts, and self-organized crypto assets.
+
+##### 권철민 (저자)
+엔코아 컨설팅, 한국 오라클을 거쳐 현재 kx systems에서 고성능 인메모리 DB인 kdb+의 Machine Learning 컨설턴트로 근무 중이다. 지난 20년간 50여 개 이상의 주요 고객사에서 데이터컨설팅 분야에 매진해 왔으며, 최근 몇 년간은 AI 기반의 Advanced Analytics 분야에 집중하고 있다. 직접 구현해 보지 않으면 절대 이해하지 못하는 평범한 두뇌의 소유자이며, 절망적인 프로젝트에 참여해 자기학대적인 노력으로 문제를 해결하는 이상한 성격의 소유자이기도 하다.
+
+##### 石原 祥太郎(u++), Kaggle Master(https://kaggle.com/sishihara)
 ・2019年4月に「PetFinder.my Adoption Prediction」コンペで優勝
 ・2019年12月には「Kaggle Days Tokyo」でのコンペ開催にも携わる
 ・2019年3月に公開したQiitaのKaggle入門記事は1600いいねを達成
 ・日本経済新聞社でデータ分析に従事
 
-村田 秀樹(カレー)
+##### 村田 秀樹(カレー)
 ・Kaggle Master(https://kaggle.com/currypurin)
 ・2018年8月に「Santander Value Prediction Challenge」コンペでソロゴールドメダル獲得(8位)
 ・2019年6月に「LANL Earthquake Prediction」コンペで3位入賞
 ・Kaggle入門者のために書いた同人誌の『Kaggleのチュートリアル』は累計2500部を突破
 ・専業Kagglerとして,2018年7月より活動している
 
+##### 정권우 (저자)
+카네기멜론 대학교 응용수학과 학부를 졸업했다. 5살부터 유초중고 시절을 일본 도쿄에서 보내고, 대학교를 미국으로 진학한 덕분에 한국어, 일본어, 영어가 능통하다. 대학에서는 금융수학을 전공한 후 UBS Seoul, JP Morgan Tokyo지사에서 사회생활을 시작했다. 대학교 2학년 때 처음으로 접한 프로그래밍에 관심을 갖게 되어, 휴학 후 한국에서의 병역특례 군복무 시절 머신러닝을 독학으로 공부했다. 캐글 경진대회를 통해 머신러닝을 배웠으며, 글로벌 캐글 랭킹이 그 사람의 머신러닝 능력을 대변한다고 믿는다. 캐글 본사의 허락 하에, 공식 블로그를 한글로 번역하고 있으며, 2016년 12월에는 패스트캠퍼스에서 “파이썬을 활용한 머신러닝 프로젝트 CAMP” 강사로 캐글 경진대회를 활용하여 실무 머신러닝 기술을 가르쳤다. 모바일 콘텐츠 플랫폼 카카오페이지를 운영하는 다음카카오의 자회사 포도트리를 거쳐, P2P 투자 기업 8퍼센트의 챗봇을 개발한 데이터나다에서 머신러닝 엔지니어로 근무한 경력이 있다. 지금은 네이버 파파고 팀에서 딥러닝을 통해 더 나은 번역기를 개발하는 일을 하고 있다.
+
+##### 김범준 (역자)
+초등학교 2학년 때 베이직으로 프로그램을 시작하여 중학교 시절에 MSX용 어셈블리어(z80) 프로그램을 습득했을 정도로 어릴 때부터 프로그래밍에 남다른 관심을 가졌다. 일본 호세이대학 경영학부 출신이며 어셈블리어로 게임을 제작할 정도로 독특한 캐리어를 지녔다. 가정용 멀티미디어 개발과 측정 장비 소프트웨어를 주로 개발하였다. “만들면서 배우는 OS 구조와 원리”(한빛미디어, 2005)를 집필하였다.
+
+### 1. [Kaggle for Beginners: with Kernel Code]()
+* Zeeshan-ul-hassan Usmani (Author), Gufhtugu Publications (November 3, 2017), 54 pages, Kindle Price:	$6.99
+* I found it on 2020-03-04 (Wed).
+* I ordered it on 2020-03-04 (Wed).
 
 ### 2. [データサイエンスの森　Kaggleの歩き](https://www.amazon.co.jp/データサイエンスの森-Kaggleの歩き方-坂本-俊之/dp/4863542933/ref=pd_bxgy_14_img_3/355-0469201-0950500?_encoding=UTF8&pd_rd_i=4863542933&pd_rd_r=9073b9d2-958c-4a96-be01-0759e40a9fbf&pd_rd_w=d1fPJ&pd_rd_wg=k3uPd&pf_rd_p=b25bd748-082b-4f2a-b724-125316a35a9c&pf_rd_r=77FSZ8RJ5SB04DQT2GDE&psc=1&refRID=77FSZ8RJ5SB04DQT2GDE)
-* 2019/10/22, 坂本 俊之 (著), 単行本 ￥2,904
-* I ordered it on 2020-03-04.
+* 坂本 俊之 (著), シーアンドアール研究所 (2019/10/22), 224ページ, 単行本 ￥2,904
+* I found it on 2019-11-22 (Fri).
+* I ordered it on 2020-03-04 (Wed).
 
 #### [目次]
 ```
@@ -45,7 +65,8 @@ Kaggleをこれから始めようと思う人は、こんなダラダラ書い�
 kaggleにたどり着いたものの、英語が超苦手で使い方に悩んでいる人のための解説本。一通り英語ができる人でも、流し読みしておけば若干作業効率が上がるかも知れません。
 
 ### 3. [実践Data Scienceシリーズ PythonではじめるKaggleスタートブック](https://www.amazon.co.jp/%E5%AE%9F%E8%B7%B5Data-Science%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-Python%E3%81%A7%E3%81%AF%E3%81%98%E3%82%81%E3%82%8BKaggle%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%83%96%E3%83%83%E3%82%AF-KS%E6%83%85%E5%A0%B1%E7%A7%91%E5%AD%A6%E5%B0%82%E9%96%80%E6%9B%B8-%E7%A5%A5%E5%A4%AA%E9%83%8E/dp/4065190061/ref=pd_lutyp_crty_cxhsh_1_2/358-9494963-0927933?_encoding=UTF8&pd_rd_i=4065190061&pd_rd_r=f02fabaf-16c4-468a-bfcb-2aa137af305b&pd_rd_w=zZ1GE&pd_rd_wg=ysCCo&pf_rd_p=3a8b6213-8c75-462f-a876-fcae4b498ee8&pf_rd_r=0XY7F45JHDSKJR3MDQ20&psc=1&refRID=0XY7F45JHDSKJR3MDQ20)
-* 講談社, 2020/3/19, 石原 祥太郎 (著), 村田 秀樹 (著), 単行本（ソフトカバー）￥2,200, 192ページ
+* 講談社(2020/3/19), 石原 祥太郎 (著), 村田 秀樹 (著), 192ページ, 単行本（ソフトカバー）￥2,200, 192ページ
+* I found it on 2019-11-22 (Fri).
 * I ordered it on 2020-03-04 (Reservation)
 
 #### [目次]
@@ -98,6 +119,8 @@ A.2 第3章 Titanicの先に行く
 
 ### 4. [파이썬 머신러닝 완벽 가이드 다양한 캐글 예제와 함께 기초 알고리즘부터 최신 기법까지 배우는](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791158391928&orderClick=LAG&Kc=)
 * 권철민 지음, 위키북스, 2020년 02월 07일 출간, 648쪽, 정가: 38,000원, 판매가: 34,200원
+* I found it on 2020-03-05 (Thu).
+* Not ordered yet.
 
 ```
 자세한 이론 설명과 파이썬 실습을 통해 머신러닝을 완벽하게 배울 수 있습니다!
@@ -358,8 +381,9 @@ __Surprise를 이용한 개인화 영화 추천 시스템 구축
 출판사 서평
 ```
 ### 5. [Kaggleで勝つデータ分析の技術](https://www.amazon.co.jp/Kaggleで勝つデータ分析の技術-門脇-大輔/dp/4297108437/ref=sr_1_1?qid=1574393596&s=books&sr=1-1&text=保坂+桂佑)
-* 技術評論社 (2019/10/9), 門脇 大輔 (著), 阪田 隆司 (著), 保坂 桂佑 (著), 平松 雄司 (著), 単行本（ソフトカバー）￥3,608
-* I ordered it on 2020-03-04.
+* 技術評論社 (2019/10/9), 門脇 大輔 (著), 阪田 隆司 (著), 保坂 桂佑 (著), 平松 雄司 (著), 424ページ, 単行本（ソフトカバー）￥3,608
+* I found it on 2019-11-22 (Fri).
+* I ordered it on 2020-03-04 (Wed).
 
 #### [目次](https://www.amazon.co.jp/dp/toc/4297108437/ref=dp_toc?_encoding=UTF8&n=465392)
 ```
@@ -898,8 +922,11 @@ A.3 本書で参照した分析コンペ
 ```
 
 ### 6. [Kaggle 우승작으로 배우는 머신러닝 탐구생활 파이썬을 활용한 머신러닝 실전 예제 분석](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791186697696&orderClick=LAG&Kc=)
-* 정권우 지음, 김범준 옮김, 비제이퍼블릭, 2018년 08월 31일 출간, 정가: 27,000원, 판매가: 24,300원, eBook: 21,600원
+* 정권우 지음, 김범준 옮김, 비제이퍼블릭, 2018년 08월 31일 출간, 397쪽, 정가: 27,000원, 판매가: 24,300원, eBook: 21,600원
 * 소스코드 다운로드: https://github.com/bjpublic/kaggleml
+* I found it on 2020-03-05 (Thu).
+* Not ordered yet.
+
 ```
 파이썬을 활용한 머신러닝 실전 예제 분석
 이 책은 과거 캐글 경진대회에서 제공된 실제 데이터를 다룬다. 머신러닝을 시작하기 위하여 두껍고 어려운 선형대수, 미적분, 통계 책을 읽기 시작하여 고통받고 있는 독자를 위하여, 이 책은 더 재미있고 피부에 와닿는 실제 경진대회를 통해 머신러닝을 배울 수 있도록 돕고자 한다.
