@@ -5,12 +5,10 @@
 # Books on Kaggle
 I found these books accidentally on Amazon.co.jp when I was looking for some NLP books in Japanese. "Kaggleで勝つデータ分析の技術" was recommended by the Amazon Recommendation system. I liked this book and ended up selecting two more books. (There was a promotion for free shipping. 5 books=free shipping to Korea, Taiwan, & Hong Kong.)
 
-坂本 俊之, 
-1. [データサイエンスの森　Kaggleの歩き]
-
-石原 祥太郎 (著), 村田 秀樹
-
-門脇 大輔  (著), 阪田 隆司  (著), 保坂 桂佑 (著), 平松 雄司  (著)
+## Book Authors
+* 坂本 俊之, [データサイエンスの森　Kaggleの歩き]
+* 石原 祥太郎, 村田 秀樹, 実践Data Scienceシリーズ PythonではじめるKaggleスタートブック
+* 門脇 大輔, 阪田 隆司, 保坂 桂佑, 平松 雄司, Kaggleで勝つデータ分析の技術
 
 #### 著者について
 石原 祥太郎(u++), Kaggle Master(https://kaggle.com/sishihara)
