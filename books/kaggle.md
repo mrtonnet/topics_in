@@ -39,7 +39,7 @@ Dr. Usmani is a Fulbright Scholar and Eisenhower Fellow. He holds a PhD and MS i
 ##### 김범준 (역자)
 초등학교 2학년 때 베이직으로 프로그램을 시작하여 중학교 시절에 MSX용 어셈블리어(z80) 프로그램을 습득했을 정도로 어릴 때부터 프로그래밍에 남다른 관심을 가졌다. 일본 호세이대학 경영학부 출신이며 어셈블리어로 게임을 제작할 정도로 독특한 캐리어를 지녔다. 가정용 멀티미디어 개발과 측정 장비 소프트웨어를 주로 개발하였다. “만들면서 배우는 OS 구조와 원리”(한빛미디어, 2005)를 집필하였다.
 
-### 1. [Kaggle for Beginners: with Kernel Code]()
+### 1. [Kaggle for Beginners: with Kernel Code](https://www.amazon.com/Kaggle-Beginners-Kernel-Zeeshan-ul-hassan-Usmani-ebook/dp/B0775W3TQB/ref=sr_1_1?keywords=Kaggle+for+Beginners%3A+with+Kernel+Code&qid=1583466537&sr=8-1)
 * Zeeshan-ul-hassan Usmani (Author), Gufhtugu Publications (November 3, 2017), 54 pages, Kindle Price:	$6.99
 * I found it on 2020-03-04 (Wed).
 * I ordered it on 2020-03-04 (Wed).
