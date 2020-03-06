@@ -1,4 +1,5 @@
 ##### aimldl > documents > surveys > kaggle.md
+* Rev.2: 2020-03-06 (Fri)
 * Rev.1: 2020-03-05 (Thu)
 * Draft: 2019-11-22 (Fri)
 
@@ -41,13 +42,13 @@ Dr. Usmani is a Fulbright Scholar and Eisenhower Fellow. He holds a PhD and MS i
 
 ### 1. [Kaggle for Beginners: with Kernel Code](https://www.amazon.com/Kaggle-Beginners-Kernel-Zeeshan-ul-hassan-Usmani-ebook/dp/B0775W3TQB/ref=sr_1_1?keywords=Kaggle+for+Beginners%3A+with+Kernel+Code&qid=1583466537&sr=8-1)
 * Zeeshan-ul-hassan Usmani (Author), Gufhtugu Publications (November 3, 2017), 54 pages, Kindle Price:	$6.99
-* I found it on 2020-03-04 (Wed).
-* I ordered it on 2020-03-04 (Wed).
+* Found it on 2020-03-04 (Wed).
+* Ordered it on 2020-03-04 (Wed).
 
 ### 2. [データサイエンスの森　Kaggleの歩き](https://www.amazon.co.jp/データサイエンスの森-Kaggleの歩き方-坂本-俊之/dp/4863542933/ref=pd_bxgy_14_img_3/355-0469201-0950500?_encoding=UTF8&pd_rd_i=4863542933&pd_rd_r=9073b9d2-958c-4a96-be01-0759e40a9fbf&pd_rd_w=d1fPJ&pd_rd_wg=k3uPd&pf_rd_p=b25bd748-082b-4f2a-b724-125316a35a9c&pf_rd_r=77FSZ8RJ5SB04DQT2GDE&psc=1&refRID=77FSZ8RJ5SB04DQT2GDE)
 * 坂本 俊之 (著), シーアンドアール研究所 (2019/10/22), 224ページ, 単行本 ￥2,904
-* I found it on 2019-11-22 (Fri).
-* I ordered it on 2020-03-04 (Wed).
+* Found it on 2019-11-22 (Fri).
+* Ordered it on 2020-03-04 (Wed).
 
 #### [目次]
 ```
@@ -66,8 +67,8 @@ kaggleにたどり着いたものの、英語が超苦手で使い方に悩ん�
 
 ### 3. [実践Data Scienceシリーズ PythonではじめるKaggleスタートブック](https://www.amazon.co.jp/%E5%AE%9F%E8%B7%B5Data-Science%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-Python%E3%81%A7%E3%81%AF%E3%81%98%E3%82%81%E3%82%8BKaggle%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E3%83%96%E3%83%83%E3%82%AF-KS%E6%83%85%E5%A0%B1%E7%A7%91%E5%AD%A6%E5%B0%82%E9%96%80%E6%9B%B8-%E7%A5%A5%E5%A4%AA%E9%83%8E/dp/4065190061/ref=pd_lutyp_crty_cxhsh_1_2/358-9494963-0927933?_encoding=UTF8&pd_rd_i=4065190061&pd_rd_r=f02fabaf-16c4-468a-bfcb-2aa137af305b&pd_rd_w=zZ1GE&pd_rd_wg=ysCCo&pf_rd_p=3a8b6213-8c75-462f-a876-fcae4b498ee8&pf_rd_r=0XY7F45JHDSKJR3MDQ20&psc=1&refRID=0XY7F45JHDSKJR3MDQ20)
 * 講談社(2020/3/19), 石原 祥太郎 (著), 村田 秀樹 (著), 192ページ, 単行本（ソフトカバー）￥2,200, 192ページ
-* I found it on 2019-11-22 (Fri).
-* I ordered it on 2020-03-04 (Reservation)
+* Found it on 2019-11-22 (Fri).
+* Ordered it on 2020-03-04 (Reservation)
 
 #### [目次]
 ```
@@ -119,8 +120,8 @@ A.2 第3章 Titanicの先に行く
 
 ### 4. [파이썬 머신러닝 완벽 가이드 다양한 캐글 예제와 함께 기초 알고리즘부터 최신 기법까지 배우는](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791158391928&orderClick=LAG&Kc=)
 * 권철민 지음, 위키북스, 2020년 02월 07일 출간, 648쪽, 정가: 38,000원, 판매가: 34,200원
-* I found it on 2020-03-05 (Thu).
-* Not ordered yet.
+* Found it on 2020-03-05 (Thu).
+* Ordered it on 2020-03-06 (Fri).
 
 ```
 자세한 이론 설명과 파이썬 실습을 통해 머신러닝을 완벽하게 배울 수 있습니다!
@@ -382,8 +383,8 @@ __Surprise를 이용한 개인화 영화 추천 시스템 구축
 ```
 ### 5. [Kaggleで勝つデータ分析の技術](https://www.amazon.co.jp/Kaggleで勝つデータ分析の技術-門脇-大輔/dp/4297108437/ref=sr_1_1?qid=1574393596&s=books&sr=1-1&text=保坂+桂佑)
 * 技術評論社 (2019/10/9), 門脇 大輔 (著), 阪田 隆司 (著), 保坂 桂佑 (著), 平松 雄司 (著), 424ページ, 単行本（ソフトカバー）￥3,608
-* I found it on 2019-11-22 (Fri).
-* I ordered it on 2020-03-04 (Wed).
+* Found it on 2019-11-22 (Fri).
+* Ordered it on 2020-03-04 (Wed).
 
 #### [目次](https://www.amazon.co.jp/dp/toc/4297108437/ref=dp_toc?_encoding=UTF8&n=465392)
 ```
@@ -924,8 +925,8 @@ A.3 本書で参照した分析コンペ
 ### 6. [Kaggle 우승작으로 배우는 머신러닝 탐구생활 파이썬을 활용한 머신러닝 실전 예제 분석](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791186697696&orderClick=LAG&Kc=)
 * 정권우 지음, 김범준 옮김, 비제이퍼블릭, 2018년 08월 31일 출간, 397쪽, 정가: 27,000원, 판매가: 24,300원, eBook: 21,600원
 * 소스코드 다운로드: https://github.com/bjpublic/kaggleml
-* I found it on 2020-03-05 (Thu).
-* Not ordered yet.
+* Found it on 2020-03-05 (Thu).
+* Ordered it on 2020-03-06 (Fri).
 
 ```
 파이썬을 활용한 머신러닝 실전 예제 분석
