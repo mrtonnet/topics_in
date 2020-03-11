@@ -74,7 +74,7 @@ https://github.com/kubeflow
 
 Deploying Kubernetes optimized for ML and integrated with your cloud is no easy task. With 1.0 we are providing a CLI and configuration files so you can deploy Kubeflow with one command.
 
-kfctl apply -f kfctl_gcp_iap.v1.0.0.yaml
-kfctl apply -f kfctl_k8s_istio.v1.0.0.yaml
-kfctl apply -f kfctl_aws_cognito.v1.0.0.yaml
-kfctl apply -f kfctl_ibm.v1.0.0.yaml
+* kfctl apply -f kfctl_gcp_iap.v1.0.0.yaml
+* kfctl apply -f kfctl_k8s_istio.v1.0.0.yaml
+* kfctl apply -f kfctl_aws_cognito.v1.0.0.yaml
+* kfctl apply -f kfctl_ibm.v1.0.0.yaml
