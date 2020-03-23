@@ -72,11 +72,7 @@ Take Away
 
 ##### **[Mycatshop](https://angel.co/company/mycatshop/jobs) Revolution in Pet Industry**
 
-##### **[Boston Made Pets](https://angel.co/company/bostonmade/jobs) Gucci for dogs**
-
 ##### **[Slurps](https://angel.co/company/slurps/jobs) Everyone worries about their dog's food but 2/3 don't drink enough so we made Slurps.**
-
-##### **[My Pet Package](https://angel.co/company/my-pet-package/jobs) A comprehensive web service that helps you meet your pet's every need.**
 
 ##### **[Amaroq Organic](https://angel.co/company/amaroq-organic/jobs) We create organic dog food, ethically sourced with the planet and dog in mind.**
 
