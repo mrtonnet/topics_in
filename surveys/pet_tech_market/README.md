@@ -79,7 +79,7 @@ Take Away
 ##### **[Petbacker](https://angel.co/company/petbacker-1/jobs) PetBacker helps you connect with other pet lovers who are ready to take care your pets.**
 
 ### [What are some notable startups for pets?](https://www.quora.com/What-are-some-notable-startups-for-pets)
- [Petfinder](https://www.petfinder.com/)
- [WeRescue](http://werescue.pet/) Pet Adoption
- [PawsLikeMe](https://pawslikeme.com/)
- [Vethem](https://stfalcon.com/en/portfolio/vethem) Veterinary Treatment
+* [Petfinder](https://www.petfinder.com/)
+* [WeRescue](http://werescue.pet/) Pet Adoption
+* [PawsLikeMe](https://pawslikeme.com/)
+* [Vethem](https://stfalcon.com/en/portfolio/vethem) Veterinary Treatment
