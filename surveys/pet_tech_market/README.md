@@ -72,27 +72,14 @@ Take Away
 
 ##### **[Mycatshop](https://angel.co/company/mycatshop/jobs) Revolution in Pet Industry**
 
-##### **[Boston Made Pets](https://angel.co/company/bostonmade/jobs) Gucci for dogs**
-
 ##### **[Slurps](https://angel.co/company/slurps/jobs) Everyone worries about their dog's food but 2/3 don't drink enough so we made Slurps.**
-
-##### **[My Pet Package](https://angel.co/company/my-pet-package/jobs) A comprehensive web service that helps you meet your pet's every need.**
 
 ##### **[Amaroq Organic](https://angel.co/company/amaroq-organic/jobs) We create organic dog food, ethically sourced with the planet and dog in mind.**
 
 ##### **[Petbacker](https://angel.co/company/petbacker-1/jobs) PetBacker helps you connect with other pet lovers who are ready to take care your pets.**
 
 ### [What are some notable startups for pets?](https://www.quora.com/What-are-some-notable-startups-for-pets)
-
- [Petfinder](https://www.petfinder.com/)
-
- [WeRescue](http://werescue.pet/) Pet Adoption
-
- [PawsLikeMe](https://pawslikeme.com/)
-
-[Vethem](https://stfalcon.com/en/portfolio/vethem) Veterinary Treatment
-
-[PawBag](http://www.pawbag.com/)  discovers and curates new and interesting boutique dog products into a bi-monthly surprise bag
-
-Plus, Some startups in India
-
+* [Petfinder](https://www.petfinder.com/)
+* [WeRescue](http://werescue.pet/) Pet Adoption
+* [PawsLikeMe](https://pawslikeme.com/)
+* [Vethem](https://stfalcon.com/en/portfolio/vethem) Veterinary Treatment
