@@ -1,8 +1,6 @@
 # Pet Tech market
-
+* Rev.1: 2020-0324 (Tue)
 * Draft: 2020-0323 (Mon)
-
-
 
 ## Market Sectors
 
@@ -83,3 +81,8 @@ Take Away
 * [WeRescue](http://werescue.pet/) Pet Adoption
 * [PawsLikeMe](https://pawslikeme.com/)
 * [Vethem](https://stfalcon.com/en/portfolio/vethem) Veterinary Treatment
+
+## Pet Management/Community/Growth
+* https://www.pet-tech.org/
+* https://www.pethub.com/community/forums/pet-tech
+* https://www.blockpet.io/blockpet-1
