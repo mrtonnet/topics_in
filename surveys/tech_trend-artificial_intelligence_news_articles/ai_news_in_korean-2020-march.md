@@ -4,7 +4,7 @@
 
 ## 2020-0326 (Thu)
 
-#### [][포토][AI는 마스크 착용하고 정상 체온만 문 열어 준다](http://www.aitimes.kr/news/articleView.html?idxno=15769)
+#### [[포토][AI는 마스크 착용하고 정상 체온만 문 열어 준다](http://www.aitimes.kr/news/articleView.html?idxno=15769)
 
 * AI 얼굴인식 기술로 직원 신분을 판독, 마스크 착용 여부와 체온도 감지
 * LG CNS 마곡 본사 일부 출입게이트에 적용
