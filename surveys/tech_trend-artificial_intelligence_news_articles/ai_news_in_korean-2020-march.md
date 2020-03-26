@@ -23,8 +23,8 @@
 
 * AI를 위한 준비: AI가 아시아의 일자리와 역량에 갖는 의미(Preparing for AI: The implications of artificial intelligence for jobs and skills in Asian economies)'의 한국어본을 발표
 * 총 88페이지로 한국, 호주, 뉴질랜드, 인도, 싱가포르, 태국, 베트남, 일본 등 아태지역 총 11개국을 중심으로 AI가 일자리와 직무 역량에 미치는 영향을 다룬 각국의 연구결과를 전문가들의 견해를 기반으로 담음
-* AI를 위한 준비: AI가 아시아의 일자리와 역량에 갖는 의미, 2019년 8월, [국문 백서 링크](https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/71/2020/03/AI-WhitePaper_kor.pdf)
-* Preparing for AI: The implications of artificial intelligence for jobs and skills in Asian economies, August 2019, [영문 백서 링크](https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/71/2020/03/MS_Report_R2-1-pg-view-002.pdf)
+* AI를 위한 준비: AI가 아시아의 일자리와 역량에 갖는 의미, 2019년 8월, [국문 백서 링크](https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/71/2020/03/AI-WhitePaper_kor.pdf) [my mirror](../../papers/white_papers/AI-WhitePaper_kor.pdf)
+* Preparing for AI: The implications of artificial intelligence for jobs and skills in Asian economies, August 2019, [영문 백서 링크](https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/71/2020/03/MS_Report_R2-1-pg-view-002.pdf) [my mirror](../../papers/white_papers/MS_Report_R2-1-pg-view-002.pdf)
 
 <img src="images/ms_whitepaper_preparing_for_ai.jpg">
 
