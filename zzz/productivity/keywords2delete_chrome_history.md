@@ -1,6 +1,14 @@
 * Draft: 2020-05-16 (Sat)
 # Keywords to Clean up the Chrome History
-My motivation is to remove the noise in the web browser history. I want to find the work-related search results, useful documents and links quickly.
+## Objective
+Find the work-related search results, useful documents and links quickly.
+
+## How?
+* Remove the noise in the web browser history. 
+* Use different web browsers for different purposes.
+  * Chrome: work-related web search & document reading
+  * Mozilla: work-related core websites only
+  * Brave: all other web activities (non-work-related), e.g. newspapers
 ```
 gmail
 Google Sheets
