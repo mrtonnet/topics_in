@@ -3,3 +3,4 @@ Terminology,My Expression,Definition,Source,Link
 epoch,iterations of the dataset,None,Getting started with TensorFlow 2.0 (Himanshu Rawlani),
 downstream task,a specific task at the end of the work flow,supervised-learning tasks that utilize a pre-trained model or component,Definition of downstream tasks in NLP,https://stackoverflow.com/questions/53248838/definition-of-downstream-tasks-in-nlp
 agnostic,ex) Socrates was an agnostic on the subject of immortality.,3.a person who holds neither of two opposing positions on a topic,dictionary.com,https://www.dictionary.com/browse/agnostic?s=t
+heuristic,decide with trials and errors,any approach to problem solving or self-discovery that employs a practical method (not guaranteed to be optimal, but sufficient for reaching an immediate, short-term goal,,
