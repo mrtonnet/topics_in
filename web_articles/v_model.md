@@ -5,7 +5,7 @@
 * In software development, the V-model represents a development process that may be considered an extension of the waterfall model. 
 * It is an example of the more general V-model. 
 * Instead of moving down in a linear way, the process steps are bent upwards after the coding phase, to form the typical V shape.
-<img src="https://en.m.wikipedia.org/wiki/File:Systems_Engineering_Process_II.svg">
+<img src="https://en.m.wikipedia.org/wiki/V-Model_(software_development)#/media/File%3ASystems_Engineering_Process_II.svg">
 
 [V-Model (software development)](https://en.m.wikipedia.org/wiki/V-Model_(software_development)), Wikipedia
 
