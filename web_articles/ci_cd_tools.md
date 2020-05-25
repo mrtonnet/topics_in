@@ -29,6 +29,8 @@ Jenkins is a CI suite that can use Maven or Ant as a build took for CI.
 ### GitLab CI
 GitLab CI is a part of GitLab. It is a web application with an API that stores its state in a database. It manages projects and provides a friendly user interface, besides offering the advantage of all the features of GitLab.
 Source: [20 Best Continuous Integration(CI) Tools in 2020](https://www.guru99.com/top-20-continuous-integration-tools.html)
+<img src="https://www.guru99.com/images/2-2017/072817_0526_Top20Contin6.png">
+
 #### Features
 * GitLab Container Registry is a secure registry for Docker images
 * GitLab offers a convenient way to change metadata of an issue or merge request without adding slash commands in the comment field
