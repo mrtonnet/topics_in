@@ -1,9 +1,5 @@
 * Draft: 2020-06-14 (Sun)
 # Ear or Auditory System
-## References
-* [Auditory system](https://en.wikipedia.org/wiki/Auditory_system), Wikipedia
-* [Auricle (anatomy)](https://en.wikipedia.org/wiki/Auricle_(anatomy)), Wikipedia
-
 ## Structure
 ### Anatomy of the Human Ear
 <img src="images/ear-auditory_system-Anatomy_of_the_Human_Ear.svg.png">
@@ -25,3 +21,9 @@ Synonyms
 ### Middle ear
 
 ### Inner ear
+
+
+## References/Sources
+* [Auditory system](https://en.wikipedia.org/wiki/Auditory_system), Wikipedia
+* [Auricle (anatomy)](https://en.wikipedia.org/wiki/Auricle_(anatomy)), Wikipedia
+
