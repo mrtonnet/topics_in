@@ -5,7 +5,8 @@
 * [Auricle (anatomy)](https://en.wikipedia.org/wiki/Auricle_(anatomy)), Wikipedia
 
 ## Structure
-
+[Anatomy of the Human Ear](ear-auditory_system-Anatomy_of_the_Human_Ear.svg.png)
+Source: https://en.wikipedia.org/wiki/File:Anatomy_of_the_Human_Ear.svg
 
 ### Outer ear: auricle + auditory canal
 Synonyms
