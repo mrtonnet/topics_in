@@ -9,7 +9,7 @@
 ### Outer ear: auricle + auditory canal
 Synonyms
 * auricle = auricula = pinna
-  * pinna which is used more in zoology means wing/fin in Latin.
+  * pinna means wing/fin in Latin and is used more in zoology.
 * auditory canal = ear canal
 
 * The auricle, the visible part of the ear, collects sound, amplifies/reduces it at certain frequency and directs it into the auditory canal.
