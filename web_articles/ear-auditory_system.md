@@ -23,9 +23,10 @@ Source: https://en.wikipedia.org/wiki/File:Anatomy_of_the_Human_Ear.svg
 ### Middle ear
 
 ### Inner ear
-
+* Chchlea means `snail shell or spiral` in Ancient Greek.
 
 ## References/Sources
 * [Auditory system](https://en.wikipedia.org/wiki/Auditory_system), Wikipedia
 * [Auricle (anatomy)](https://en.wikipedia.org/wiki/Auricle_(anatomy)), Wikipedia
 * [Eardrum](https://en.wikipedia.org/wiki/Eardrum), Wikipedia
+* [Cochlea](https://en.wikipedia.org/wiki/Cochlea), Wikipedia
