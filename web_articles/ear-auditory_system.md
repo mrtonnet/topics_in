@@ -6,12 +6,13 @@
 
 Source: https://en.wikipedia.org/wiki/File:Anatomy_of_the_Human_Ear.svg
 
-### Outer ear: auricle + auditory canal
-Synonyms
+* Brown is outer ear. Red is middle ear. Purple is inner ear.
+* Synonyms
 * auricle = auricula = pinna
   * pinna means wing/fin in Latin and is used more in zoology.
 * auditory canal = ear canal
 
+### Outer ear: auricle + auditory canal
 * The auricle, the visible part of the ear, collects sound, amplifies/reduces it at certain frequency and directs it into the auditory canal.
   * Due to its anatomy, the pinna creates a band-stop/notch filtering effect.
     * Low frequency sounds are directed toward the ear canal where the pinna behaves similar to a reflector dish.
