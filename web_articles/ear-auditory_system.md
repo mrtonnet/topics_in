@@ -23,10 +23,11 @@ Source: https://en.wikipedia.org/wiki/File:Anatomy_of_the_Human_Ear.svg
 
 ### Middle ear
 * Sound waves travel through the auditory canal and hit the tympanic membrane or eardrum.
-* The tympanic membrane vibrates in accordance to the sound waves.
-* The tympanic cavity (air-filled hole) and a series of delicate bones convert the lower-pressure vibrations into higher-pressure ones.
+* The tympanic membrane amplifies the vibrations of the sound waves.
+  * The tympanic cavity (air-filled hole) and a series of delicate bones convert the lower-pressure vibrations into higher-pressure ones.
 
 ### Inner ear
+* Chchlea transfers pressure waves into nerve impulses.
 * Chchlea means `snail shell or spiral` in Ancient Greek.
 
 ## References/Sources
