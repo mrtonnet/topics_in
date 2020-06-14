@@ -12,6 +12,7 @@ Source: https://en.wikipedia.org/wiki/File:Anatomy_of_the_Human_Ear.svg
     * pinna means wing/fin in Latin and is used more in zoology.
   * auditory canal = ear canal
   * Tympanic membrane = eardrum = myringa
+  * Tympanic cavity = middle ear cavity
 ### Outer ear: auricle + auditory canal
 * The auricle, the visible part of the ear, collects sound, amplifies/reduces it at certain frequency and directs it into the auditory canal.
   * Due to its anatomy, the pinna creates a band-stop/notch filtering effect.
@@ -21,6 +22,9 @@ Source: https://en.wikipedia.org/wiki/File:Anatomy_of_the_Human_Ear.svg
 * The auditory canal amplifes sounds between 3 and 12kHz when sound waves enter it.
 
 ### Middle ear
+* Sound waves travel through the auditory canal and hit the tympanic membrane or eardrum.
+* The tympanic membrane vibrates in accordance to the sound waves.
+* The tympanic cavity (air-filled hole) and a series of delicate bones convert the lower-pressure vibrations into higher-pressure ones.
 
 ### Inner ear
 * Chchlea means `snail shell or spiral` in Ancient Greek.
