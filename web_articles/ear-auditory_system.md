@@ -4,8 +4,9 @@
 * [Auditory system](https://en.wikipedia.org/wiki/Auditory_system), Wikipedia
 * [Auricle (anatomy)](https://en.wikipedia.org/wiki/Auricle_(anatomy)), Wikipedia
 
-
 ## Structure
+
+
 ### Outer ear: auricle + auditory canal
 Synonyms
 * auricle = auricula = pinna
