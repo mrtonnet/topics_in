@@ -1,0 +1,12 @@
+Doc_ID,No,Question,Answer,Reference
+
+005,1,What will you do if removing missing values from a dataset causes bias?,,https://analyticsindiamag.com/5-ways-handle-missing-values-machine-learning-datasets/
+005,2,How will you design a recommendation engine for jobs?,,https://analyticsindiamag.com/linkedin-recommendation-system-perfect-job-match/
+005,3,What is Rectified Linear Unit (ReLU) in Machine learning?,
+005,4,What is the difference between a bagged model and a boosted model?,,
+005,5,What is AdaGrad algorithm in machine learning?,,
+005,6,What is the degree of freedom for lasso?,,
+005,7,What are anomaly detection methods?,,
+005,8,What is AUC in machine learning?,,
+005,9,How does caching work and how do you use it in Data Science?,,
+005,10,Why use feature selection?,,

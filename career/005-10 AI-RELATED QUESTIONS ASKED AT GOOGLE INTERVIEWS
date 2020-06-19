@@ -1,0 +1,18 @@
+**005-10 AI-RELATED QUESTIONS ASKED AT GOOGLE INTERVIEWS.md**
+
+## 10 AI-RELATED QUESTIONS ASKED AT GOOGLE INTERVIEWS
+
+Source: [10 AI-RELATED QUESTIONS ASKED AT GOOGLE INTERVIEWS](https://analyticsindiamag.com/10-ai-related-questions-asked-at-google-interviews/)
+
+### Questions
+
+1. What will you do if removing missing values from a dataset causes bias?
+2. How will you design a recommendation engine for jobs?
+3. What is Rectified Linear Unit (ReLU) in **Machine learning**?
+4. What is the difference between a bagged model and a boosted model?
+5. What is AdaGrad algorithm in **machine learning**?
+6. What is the degree of freedom for lasso?
+7. What are anomaly detection methods?
+8. What is AUC in machine learning?
+9. How does caching work and how do you use it in Data Science?
+10. Why use feature selection?
