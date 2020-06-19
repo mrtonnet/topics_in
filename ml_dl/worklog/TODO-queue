@@ -1,0 +1,5 @@
+
+
+* .ipynb을 .py로 변경해주는 코드
+* 디버깅 시 print문을 logger로 변경
+* grep log파일 실시간 보기 명령어
