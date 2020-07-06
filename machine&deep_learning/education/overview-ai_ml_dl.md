@@ -18,7 +18,13 @@ Source: [What’s the Difference Between Artificial Intelligence, Machine Learni
 
 [What are the general categories of artificial Intelligence (AI)? Where can I learn more about each?](https://www.quora.com/What-are-the-general-categories-of-artificial-Intelligence-AI-Where-can-I-learn-more-about-each), 2018-11-30, Quora
 
+## A Venn diagram approximately representing machine intelligence (AI)Are ML, DL, DS the unique relations of AI?
 
+<img src="images/medium-a_venn_diagram_approximately_representing_machine_intelligence.png">
+
+
+
+Source: [Are ML, DL, DS the unique relations of AI?](https://medium.com/@4deep.prk/are-ml-dl-ds-the-unique-relations-of-ai-a52d7735c88), 2020-02-28, Medium
 
 ### Artificial Intelligence
 
@@ -32,7 +38,7 @@ Source: [Intelligent agent](https://en.wikipedia.org/wiki/Intelligent_agent)
 
 ## Machine Learning
 
-<img src="images/">
+<img src="images/overview-machine_learning.png">
 
 ### Fields of Study
 
