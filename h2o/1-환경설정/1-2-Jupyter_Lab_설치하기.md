@@ -51,15 +51,16 @@ $ jupyter lab
 * 터미널에서는 JupyterLab을 시작하고 끝내는 것이 다 이고,
 * 나머지 모든 작동은 웹브라우저에서 이루어집니다.
 
-[TODO: 확인해볼 것]
 ## Conda 가상 환경에 설치하기
 
 ```bash
 $ conda install -c conda-forge jupyterlab
 ```
+[TODO: 확인해볼 것]
 
 ## Docker 컨테이너 환경에 설치하기
 
 ```bash
 $ jupyter serverextension enable --py jupyterlab --sys-prefix
 ```
+[TODO: 확인해볼 것]
