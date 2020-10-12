@@ -11,4 +11,5 @@
 | 2       | Entry level      |
 | 1       | Internship       |
 | 0       | Not Applicable   |
+
 Source: [linked-in: Experience Levels-Job Posting API](https://developer.linkedin.com/docs/v1/job-posting/job-fields/experience-levels)
