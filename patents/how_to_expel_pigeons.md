@@ -126,13 +126,13 @@ Total 1,920 Articles (1 / 64 Pages), 33page까지 확인했으나, 마지막 5�
 
 [Ez Magic Hose](http://www.11st.co.kr/products/2418018219), 11번가 18,600원
 
-<img src="/home/k8smaster/github/topics_in/patents/images/ez_magic_hose.jpg">
+<img src="images/ez_magic_hose.jpg">
 
 #### 고압 물분사기
 
 [토야마 슈퍼젯 회전형 고압 분사건](https://smartstore.naver.com/gdesign/products/4764734204), 23,470원
 
-<img src="/home/k8smaster/github/topics_in/patents/images/토야마슈퍼젯.png">
+<img src="images/토야마슈퍼젯.png">
 
 관련 블로그: [토야마 슈퍼젯 회전형 고압 분사기로 비둘기똥 청소후기 강력추천](https://blog.naver.com/jdance01/221998688975)
 
@@ -140,11 +140,11 @@ Total 1,920 Articles (1 / 64 Pages), 33page까지 확인했으나, 마지막 5�
 
 Long Gun (롱건), Water Gun (워터건) 등의 상품이 있습니다.
 
-<img src="/home/k8smaster/github/topics_in/patents/images/naver-search_results-초강력고압분사기.png">
+<img src="images/naver-search_results-초강력고압분사기.png">
 
 Long Gun (롱건)
 
-<img src="/home/k8smaster/github/topics_in/patents/images/초강력_고압분사기-롱건.png">
+<img src="images/초강력_고압분사기-롱건.png">
 
 출처: [아파트  에커턴실외기 베란다에  집비둘기 처리](https://blog.naver.com/mcumaster/222059621832), **작성자** [사람을생각하는개발자](https://blog.naver.com/mcumaster)
 
@@ -152,11 +152,11 @@ Water Gun (워터건)
 
 [다양한 분사모드 초강력 고압분사기 스프레이건 세차건 세차호스 15미터 1세트](https://smartstore.naver.com/dulzeuni/products/5156053485), 38,140원
 
-<img src="/home/k8smaster/github/topics_in/patents/images/water_gun-장비.png">
+<img src="images/water_gun-장비.png">
 
-<img src="/home/k8smaster/github/topics_in/patents/images/water_gun-분사방식-1.png">
+<img src="images/water_gun-분사방식-1.png">
 
-<img src="/home/k8smaster/github/topics_in/patents/images/water_gun-분사방식-2.png">
+<img src="images/water_gun-분사방식-2.png">
 
 [고압 분사기 원리 및 세차 가정용 추천](https://cigol.tistory.com/1692), [시골청년의 블로그 이야기](https://cigol.tistory.com/1692)
 
