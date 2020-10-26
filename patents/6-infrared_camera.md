@@ -1,6 +1,17 @@
+* Rev.1: 2020-10-26 (Mon)
 * Draft: 2020-10-22 (Thu)
 
+# Infrared Camera
 
+* 밤에는 일반 카메라의 성능이 저하된다.
+
+* 밤에도 비둘기를 검출하기 위해선 적외선 카메라가 도움이 될 수 있다.
+
+* Q: 창문 안에 있어도 적외선 카메라가 잘 동작할 것인가?
+
+  A: No. 성능을 더 높이려면 창문에 바짝 붙여야 한다. 그러므로 창문이 있는 베란다 안쪽보다는 바깥쪽에 설치하는 편이 성능을 높일 수 있다.
+
+## Google search results
 
 Google search: object detection expel pigeon
 
