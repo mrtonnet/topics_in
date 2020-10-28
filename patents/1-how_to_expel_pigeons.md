@@ -46,3 +46,19 @@ Google search: 기지국 안테나 비둘기
 [Google search: pigeon damaging antenna](https://www.google.com/search?q=pigeon+damaging+antenna&newwindow=1&sxsrf=ALeKk00NtLtkxpgzjFuuIRBHD0DCCDUDjQ:1602489906688&source=lnms&tbm=isch&sa=X&ved=2ahUKEwixoZONzK7sAhXI3mEKHe6gAsUQ_AUoAXoECCkQAw&biw=1853&bih=920)
 
 [방아쇠 가동 물분사 총 후에 튼튼한 냉각 물뿌리개](http://korean.milkingmachinespareparts.com/sale-10191323-durable-cooling-sprinklers-after-trigger-operation-water-spray-gun.html)
+
+[비둘기](https://namu.wiki/w/%EB%B9%84%EB%91%98%EA%B8%B0), namu.wiki
+
+> **3. 습성**
+>
+> 우는소리는 의성어로 주로 '구구' 하고 표현한다. 특히 멧비둘기의 '구-구-국 국국' 거리는 소리는 꽤 자주 들을 수 있는 소리이며, 짝을 구할 땐 자리 잡고 앉아서 상당히 듣기 거북한 울음소리를 낸다. 표현하자면 좀 허스키한 목소리로 구-구-국↑국↘국. 주로 저녁쯤 들을 수 있다. '구구구'만 상상하던 사람들은 '이 소리가 비둘기 소리였어?' 하고 놀라기도 한다. 이 소리다. 멧비둘기 울음소리. 특히 시골에서 해 질 녘 깜깜해질 무렵에 들려오면 괜히 기분 나쁘다. 간혹, 우는소리를 들어 보면 자기 혼자 자기 노래에 취해 박자가 점점 빨라지는 것을 볼 수 있다. 높은 나무에서 울고 있는데 방해하면, 끊겼던 부분부터 다시 부르기도 한다...
+>
+> 날다가 공중에서 잠깐 멈추는 능력이 뛰어나다. 이걸로 멈춘 후 바로 돌아서 날아가는 데에 능하기에 심지어 자기보다 빠르더라도 매 등의 맹금류를 쉽게 피할 수 있다.
+>
+> 본래 번식력이 좋은데 도시에서는 먹을 게 넘쳐나니 먹고 남는 시간 동안에 번식만 하여 그 수가 늘고 있다고 한다. 참고로 자연 상태의 비둘기는 1년에 짝짓기를 1~2회 하는 반면 도심지 애들은 7~8회. 다만 먹을 것이 없어지면 번식을 멈춘다. 일례로 서울 시청 옥상에서 비둘기 먹이 공급을 중단했더니 몇 달 후에 비둘기의 수가 전혀 늘지 않았다고 한다.
+
+[비둘기 2탄- 비둘기 똥, 얼마나 치명적일까?(ft. 비둘기 새끼 공개)](https://youtu.be/ans3GKnW7q4), Youtube [6:06]
+
+* 습성: 밤에는 잔다.
+* 폐해
+
