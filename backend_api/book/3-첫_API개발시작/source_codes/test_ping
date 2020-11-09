@@ -1,0 +1,4 @@
+#!/bin/bash
+# request_ping
+
+http -v GET http://localhost:5000/ping

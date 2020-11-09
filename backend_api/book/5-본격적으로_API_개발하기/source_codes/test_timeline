@@ -1,0 +1,27 @@
+#!/bin/bash
+# test_timeline
+# * Draft: 2020-09-21 (Mon)
+
+# Create the first user.
+http -v POST localhost:5000/sign-up name=first_user email=user1@gmail.com password=pw2user1
+http -v POST localhost:5000/tweet id:=1 tweet="My first tweet"
+http -v POST localhost:5000/tweet id:=1 tweet="My 2nd tweet"
+http -v POST localhost:5000/tweet id:=1 tweet="Third!"
+
+# Create the second user
+http -v POST localhost:5000/sign-up name=second_user email=user2@gmail.com password=pw4user2
+http -v POST localhost:5000/tweet id:=2 tweet="Second user's first tweet"
+http -v POST localhost:5000/tweet id:=2 tweet="Second user has this as the second message."
+
+# follow 
+http -v POST localhost:5000/follow id:=1 follow:=2
+
+# Create the 3rd user
+http -v POST localhost:5000/sign-up name=third_user email=user3@gmail.com password=pw4user3
+http -v POST localhost:5000/tweet id:=3 tweet="Third user's first tweet"
+
+# Unfollow
+http -v POST localhost:5000/unfollow id:=1 unfollow:=2
+
+# timeline
+http -v GET localhost:5000/timeline/1

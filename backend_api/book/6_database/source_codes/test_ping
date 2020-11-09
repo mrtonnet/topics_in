@@ -1,0 +1,12 @@
+#!/bin/bash
+# test_ping
+# * Rev.1: 2020-09-24 (Thu)
+# * Draft: 2020-09-22 (Tue)
+
+run() {
+  command=$1
+  echo $command
+  eval $command
+}
+
+run 'http -v GET localhost:5000/ping'

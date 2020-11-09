@@ -1,0 +1,16 @@
+#!/bin/bash
+# run_sign_up_with_db
+# * Rev.1: 2020-09-24 (Thu)
+# * Draft: 2020-09-22 (Tue)
+
+# FLASK_ENV=development
+#   turns on the debug mode.
+#   When the .py file is changed, the change is applied on the fly.
+
+run() {
+  command=$1
+  echo $command
+  eval $command
+}
+
+run 'FLASK_ENV=development FLASK_APP=sign_up_with_db.py FLASK_DEBUG=1 flask run'

@@ -1,0 +1,17 @@
+#!/bin/bash
+# test_sign_up_with_db
+# * Rev.1: 2020-09-24 (Thu)
+# * Draft: 2020-09-22 (Tue)
+
+run() {
+  command=$1
+  echo $command
+  eval $command
+}
+
+run 'http -v POST localhost:5000/sign-up name=user3 email=user3@email.com password=pw4user3 profile=myprofile3'
+#http -v POST localhost:5000/sign-up name=user1 email=user1@email.com password=pw4user1 profile=myprofile1
+#http -v POST localhost:5000/sign-up name=user2 email=user2@email.com password=pw4user2 profile=myprofile2
+
+
+

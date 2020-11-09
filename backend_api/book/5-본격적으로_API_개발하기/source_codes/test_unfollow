@@ -1,0 +1,16 @@
+#!/bin/bash
+# test_unfollow
+# * Draft: 2020-09-21 (Mon)
+
+# Create the first user.
+http -v POST localhost:5000/sign-up name=aimldl email=aimldl@gmail.com password=test1234
+http -v POST localhost:5000/tweet id:=1 tweet="My first tweet"
+
+# Create the second user
+#http -v POST localhost:5000/sign-up name=second_user email=user2@gmail.com password=test2345
+
+# Follow 
+http -v POST localhost:5000/follow id:=1 follow:=2
+
+# Unfollow
+http -v POST localhost:5000/unfollow id:=1 unfollow:=2

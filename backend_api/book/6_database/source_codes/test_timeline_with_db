@@ -1,0 +1,12 @@
+#!/bin/bash
+# test_timeline_with_db
+# * Rev.1: 2020-09-24 (Thu)
+# * Draft: 2020-09-21 (Mon)
+
+run() {
+  command=$1
+  echo $command
+  eval $command
+}
+
+run 'http -v GET localhost:5000/timeline/1'

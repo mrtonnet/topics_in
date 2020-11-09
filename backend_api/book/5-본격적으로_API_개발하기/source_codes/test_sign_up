@@ -1,0 +1,5 @@
+#!/bin/bash
+# test_sign_up
+# * Draft: 2020-09-21 (Mon)
+
+http -v POST localhost:5000/sign-up name=aimldl email=aimldl@gmail.com password=test1234

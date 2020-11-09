@@ -1,0 +1,6 @@
+#!/bin/bash
+# test_tweet
+# * Draft: 2020-09-21 (Mon)
+
+http -v POST localhost:5000/sign-up name=aimldl email=aimldl@gmail.com password=test1234
+http -v POST localhost:5000/tweet id:=1 tweet="My first tweet"

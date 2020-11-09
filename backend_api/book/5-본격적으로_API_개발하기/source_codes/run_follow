@@ -1,0 +1,9 @@
+#!/bin/bash
+#  run_follow
+#  * Draft: 2020-09-21 (Mon)
+
+# FLASK_ENV=development
+#   turns on the debug mode.
+#   When miniter.py is changed, the change is applied on the fly.
+
+FLASK_ENV=development FLASK_APP=follow.py FLASK_DEBUG=1 flask run

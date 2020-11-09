@@ -1,0 +1,12 @@
+#!/bin/bash
+# test_tweet_with_db
+# * Rev.1: 2020-09-24 (Thu)
+# * Draft: 2020-09-21 (Mon)
+
+run() {
+  command=$1
+  echo $command
+  eval $command
+}
+
+run 'http -v POST localhost:5000/tweet id=1 tweet="hello world"'
